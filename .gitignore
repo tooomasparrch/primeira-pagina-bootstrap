@@ -1,0 +1,16 @@
+# Ficheiros do sistema operativo
+.DS_Store
+Thumbs.db
+
+# Pastas e ficheiros do VS Code que não precisam de ir para o GitHub
+.vscode/
+*.code-workspace
+
+# Configurações pessoais ou credenciais
+.env
+*.env
+secrets.*
+
+# Outros ficheiros temporários
+*.tmp
+*.log
